@@ -1,1 +1,90 @@
+body {
+  background-color: black;
+  background-image: url('achtergrondfivem.jpg'); 
+  background-repeat: no-repeat;
+  background-size: 100% 125%;
+  font-family: "monaco", monospace
+  color: black;
+}
 
+nav ul {
+  background-color: orange;
+  border-style: solid;
+  border-color: PapayaWhip;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+p {
+  background-color: orange;
+  border-style: solid;
+  border-color: PapayaWhip;
+  border-width: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+p li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+H2 {
+  background-color: orange;
+  border-style: solid;
+  border-color: PapayaWhip;
+  border-width: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+H2 li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+p {
+  float: left;
+}
+
+H4 {
+  background-color: orange;
+  border-style: solid;
+  border-color: papayawhip;
+  padding: 10px;
+  border-radius: 10px;
+  width: 400px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+}
+
+H4 li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+H4 {
+  float: right;
+}
