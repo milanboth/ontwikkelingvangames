@@ -84,3 +84,7 @@ H4 li {
 H4 {
   float: right;
 }
+
+p {
+  float: left;
+}
