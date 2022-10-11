@@ -92,16 +92,10 @@ p {
 H3 {
   background-color: orange;
   border-style: solid;
-  border-color: papayawhip;
+  border-color: PapayaWhip;
+  border-width: 5px;
   padding: 10px;
   border-radius: 10px;
-  width: 500x;
-  border: 15px;
-  padding: 50px;
-  margin: 20px;
-}
-
-
 }
 
 H3 li {
@@ -111,7 +105,6 @@ H3 li {
     margin-left: 10px;
     color: PapayaWhip;
 }
-
 H3 {
   float: left;
 }
