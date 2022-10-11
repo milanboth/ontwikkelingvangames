@@ -2,7 +2,7 @@ body {
   background-color: black;
   background-image: url('Achtergrondfivem.jfif'); 
   background-repeat: no-repeat;
-  background-size: 100% 125%;
+  background-size: 100% 200%;
   font-family: "monaco", monospace
   color: black;
 }
@@ -86,5 +86,32 @@ H4 {
 }
 
 p {
+  float: left;
+}
+
+H3 {
+  background-color: orange;
+  border-style: solid;
+  border-color: papayawhip;
+  padding: 10px;
+  border-radius: 10px;
+  width: 500x;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+}
+
+H3 li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+}
+
+H3 {
   float: left;
 }
